@@ -9,8 +9,7 @@
 <h4 align="center">Shows status of your VPN (connected/not connected), Displays status of vpn, location, local ip address and map with approximate location, Droptop icon changes from red when disconnected to green when connected..</h4>
 
 <p align="center">
-  <a href="https://droptopfour.com/community-apps"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2Fname%2FVPN%2520Status&query=%24.version&prefix=v&label=Version&color=43ff64">
-</a>
+  <a href="https://droptopfour.com/community-apps"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2Fname%2FVPN%2520Status&query=%24.version&prefix=v&label=Version&color=43ff64"></a>
   <a href="https://droptopfour.com"><img src="https://img.shields.io/badge/Droptop%20Four%20Website-43ff64"></a>
   <a href="https://droptopfour.com/discord"><img alt="Discord" src="https://img.shields.io/discord/800124057923485728"></a>
   <!--img alt="GitHub all releases" src="https://img.shields.io/github/downloads/papa-boynton/SearchBar-TheyCallMePapa/total"-->
