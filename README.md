@@ -9,10 +9,12 @@
 <h4 align="center">Shows status of your VPN (connected/not connected), Displays status of vpn, location, local ip address and map with approximate location, Droptop icon changes from red when disconnected to green when connected..</h4>
 
 <p align="center">
-  <a href="https://droptopfour.com/community-apps"><img alt="Dynamic version Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDroptop-Four%2FGlobalData%2Fmain%2Fdata%2Fcommunity_apps%2Fcommunity_apps.json&query=%24.apps%5B%3F(%40.app.name%20%3D%3D%20'VPN%20Status')%5D.app.version&prefix=v&label=Version&color=43ff64"></a>
+  <a href="https://droptopfour.com/community-apps"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2Fname%2FVPN%2520Status&query=%24.version&prefix=v&label=Version&color=43ff64">
+</a>
   <a href="https://droptopfour.com"><img src="https://img.shields.io/badge/Droptop%20Four%20Website-43ff64"></a>
   <a href="https://droptopfour.com/discord"><img alt="Discord" src="https://img.shields.io/discord/800124057923485728"></a>
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/papa-boynton/VPN_Status-Mike_Boynton/total">
+  <!--img alt="GitHub all releases" src="https://img.shields.io/github/downloads/papa-boynton/SearchBar-TheyCallMePapa/total"-->
+  <a href="https://droptopfour.com/community-apps"><img alt="Dynamic downloads Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2Fname%2FVPN%2520Status&query=%24.downloads&label=Downloads&color=43ff64"></a>
 </p>
 
 <p align="center">
