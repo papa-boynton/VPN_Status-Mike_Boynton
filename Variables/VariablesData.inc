@@ -9,4 +9,4 @@ CustomAppName=VPN Status
 CustomAppVersion=23.0417
 CustomAppCreators=Mike Boynton
 [Variables]
-MyAppVersion=25.0428
+MyAppVersion=25.0503
